@@ -4,7 +4,7 @@
 
 # vscode
 .vscode
-  
+
 # Xcode
 build/
 *.pbxuser
@@ -22,7 +22,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-      
+
 # Android/IntelliJ
 build/
 .idea
@@ -30,9 +30,6 @@ build/
 local.properties
 *.iml
 .cxx/
-
-# Build
-lib/
 
 # CocoaPods
 example/ios/Pods
